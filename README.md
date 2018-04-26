@@ -30,3 +30,5 @@ npm start
 ```
 lsof -i :8081
 ```
+
+## To add a Native UI Component to Anroid, read the commit submitted with this comment.
